@@ -1,5 +1,4 @@
-"use strict";
-Object.defineProperty(exports, "__esModule", { value: true });
+
 // Qustion No:01
 console.log("Assala o Alaikum my name is Abdul Salam");
 //__________________________________________________________________________________________________
